@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="283fda7b-8c91-4c41-a24e-6f28668e1d1c" name="Changes" comment="puse el .gitignore y el README.md">
-      <change afterPath="$PROJECT_DIR$/tienda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tienda/consola/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tienda/modelo/__init__.py" afterDir="false" />
+    <list default="true" id="283fda7b-8c91-4c41-a24e-6f28668e1d1c" name="Changes" comment="cree el python file , de la clase producto.py">
+      <change beforePath="$PROJECT_DIR$/tienda/modelo/producto.py" beforeDir="false" afterPath="$PROJECT_DIR$/tienda/modelo/producto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771098438624</updated>
-      <workItem from="1771098439647" duration="414000" />
+      <workItem from="1771098439647" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="puse el .gitignore y el README.md">
       <option name="closed" value="true" />
@@ -91,7 +92,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771098598895</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cree el paquete de carpetas de la estructura , ..tienda/modelo and ..tienda/consola">
+      <option name="closed" value="true" />
+      <created>1771098951557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771098951557</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cree el python file , de la clase producto.py">
+      <option name="closed" value="true" />
+      <created>1771099046081</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771099046081</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="puse el .gitignore y el README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="puse el .gitignore y el README.md" />
+    <MESSAGE value="cree el paquete de carpetas de la estructura , ..tienda/modelo and ..tienda/consola" />
+    <MESSAGE value="cree el python file , de la clase producto.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="cree el python file , de la clase producto.py" />
   </component>
 </project>
