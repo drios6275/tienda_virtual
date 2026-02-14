@@ -11,6 +11,11 @@ class Tienda:
     def agregar_producto(self, producto:Producto):
         self.productos.append(producto)
 
+    def mostrar_productos(self) ->list[str] | str:
+        if not self.productos:
+            return"No hay productos en la lista"
+
+        print(self.productos)
 
 
 
