@@ -1,9 +1,12 @@
+from tienda.modelo.producto import Producto
+
+
 class Cliente:
     def __init__(self,nombre:str):
         self.nombre = nombre
         self.carrito:list[str]=[]
 
-    def agregar_producto(self,producto):
+    def agregar_producto(self,producto:Producto):
         self.carrito.append(producto)
 
 

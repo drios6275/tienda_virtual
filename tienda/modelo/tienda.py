@@ -8,5 +8,11 @@ class Tienda:
         self.nombre = nombre
         self.productos :list[str] = []
 
+    def agregar_producto(self, producto:Producto):
+        self.productos.append(producto)
+
+
+
+
 
 

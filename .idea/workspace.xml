@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283fda7b-8c91-4c41-a24e-6f28668e1d1c" name="Changes" comment="cree el python file de la clase tienda.py">
+    <list default="true" id="283fda7b-8c91-4c41-a24e-6f28668e1d1c" name="Changes" comment="cree la clase tienda con sus respectivos atributos y metodo constructor">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tienda/modelo/tienda.py" beforeDir="false" afterPath="$PROJECT_DIR$/tienda/modelo/tienda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771098438624</updated>
-      <workItem from="1771098439647" duration="2318000" />
+      <workItem from="1771098439647" duration="3183000" />
     </task>
     <task id="LOCAL-00001" summary="puse el .gitignore y el README.md">
       <option name="closed" value="true" />
@@ -164,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771100571696</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="cree la clase tienda con sus respectivos atributos y metodo constructor">
+      <option name="closed" value="true" />
+      <created>1771100785697</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1771100785697</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +190,7 @@
     <MESSAGE value="cree el metodo agregar_procuto" />
     <MESSAGE value="cree el metodo mostrar_carrito()" />
     <MESSAGE value="cree el python file de la clase tienda.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="cree el python file de la clase tienda.py" />
+    <MESSAGE value="cree la clase tienda con sus respectivos atributos y metodo constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="cree la clase tienda con sus respectivos atributos y metodo constructor" />
   </component>
 </project>
