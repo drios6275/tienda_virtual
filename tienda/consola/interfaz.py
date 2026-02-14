@@ -23,3 +23,11 @@ class Interfaz:
         print("5. Calcular total de compra")
         print("6. salir")
 
+
+
+    def datos_productos(self):
+        producto = input("Ingrese el nombre del producto: ")
+
+        precio = input("Ingrese el precio del producto: ")
+
+        return producto, precio
