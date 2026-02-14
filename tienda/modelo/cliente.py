@@ -7,6 +7,15 @@ class Cliente:
         self.carrito.append(producto)
 
 
+    def mostrar_carrito(self) -> list[str] | str:
+        if not self.carrito:
+            return "no hay productos en el carrito"
+
+        return self.carrito
+
+
+
+
 
 
 
