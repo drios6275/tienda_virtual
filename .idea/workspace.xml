@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283fda7b-8c91-4c41-a24e-6f28668e1d1c" name="Changes" comment="cree el metodo mostrar_productos">
+    <list default="true" id="283fda7b-8c91-4c41-a24e-6f28668e1d1c" name="Changes" comment="cree el python file de interfaz.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tienda/consola/interfaz.py" beforeDir="false" afterPath="$PROJECT_DIR$/tienda/consola/interfaz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771098438624</updated>
-      <workItem from="1771098439647" duration="4158000" />
+      <workItem from="1771098439647" duration="5181000" />
     </task>
     <task id="LOCAL-00001" summary="puse el .gitignore y el README.md">
       <option name="closed" value="true" />
@@ -188,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771101973472</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="cree el python file de interfaz.py">
+      <option name="closed" value="true" />
+      <created>1771102784956</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1771102784956</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +217,7 @@
     <MESSAGE value="cree la clase tienda con sus respectivos atributos y metodo constructor" />
     <MESSAGE value="cree el metodo agregar_producto" />
     <MESSAGE value="cree el metodo mostrar_productos" />
-    <option name="LAST_COMMIT_MESSAGE" value="cree el metodo mostrar_productos" />
+    <MESSAGE value="cree el python file de interfaz.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="cree el python file de interfaz.py" />
   </component>
 </project>
