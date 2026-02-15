@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283fda7b-8c91-4c41-a24e-6f28668e1d1c" name="Changes" comment="cree el python file de interfaz.py">
+    <list default="true" id="283fda7b-8c91-4c41-a24e-6f28668e1d1c" name="Changes" comment="cree el metodo datos_productos">
+      <change afterPath="$PROJECT_DIR$/principal/consola/interfaz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/principal/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tienda/consola/interfaz.py" beforeDir="false" afterPath="$PROJECT_DIR$/tienda/consola/interfaz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tienda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/principal/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tienda/consola/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/principal/consola/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tienda/consola/interfaz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tienda/modelo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/principal/modelo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tienda/modelo/cliente.py" beforeDir="false" afterPath="$PROJECT_DIR$/principal/modelo/cliente.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tienda/modelo/producto.py" beforeDir="false" afterPath="$PROJECT_DIR$/principal/modelo/producto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tienda/modelo/tienda.py" beforeDir="false" afterPath="$PROJECT_DIR$/principal/modelo/tienda.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,51 +31,54 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "drios6275"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;drios6275&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/drios6275/tienda_virtual.git",
-    "accountId": "556d5de9-a3a0-4d6e-bd6a-5a8fd7dbe91c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/drios6275/tienda_virtual.git&quot;,
+    &quot;accountId&quot;: &quot;556d5de9-a3a0-4d6e-bd6a-5a8fd7dbe91c&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="39fsPu1AEem3omCj6YsfslurbCS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.interfaz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tienda.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,7 +94,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771098438624</updated>
-      <workItem from="1771098439647" duration="5181000" />
+      <workItem from="1771098439647" duration="18389000" />
+      <workItem from="1771170837702" duration="4093000" />
     </task>
     <task id="LOCAL-00001" summary="puse el .gitignore y el README.md">
       <option name="closed" value="true" />
@@ -197,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771102784956</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="cree el metodo constructor y el metodo mostar menu">
+      <option name="closed" value="true" />
+      <created>1771103669328</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1771103669328</updated>
+    </task>
+    <task id="LOCAL-00016" summary="cree el metodo datos_productos">
+      <option name="closed" value="true" />
+      <created>1771103787720</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1771103787720</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +246,13 @@
     <MESSAGE value="cree el metodo agregar_producto" />
     <MESSAGE value="cree el metodo mostrar_productos" />
     <MESSAGE value="cree el python file de interfaz.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="cree el python file de interfaz.py" />
+    <MESSAGE value="cree el metodo constructor y el metodo mostar menu" />
+    <MESSAGE value="cree el metodo datos_productos" />
+    <option name="LAST_COMMIT_MESSAGE" value="cree el metodo datos_productos" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tienda_virtual$main.coverage" NAME="main Coverage Results" MODIFIED="1771174257431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/principal" />
+    <SUITE FILE_PATH="coverage/tienda_virtual$tienda.coverage" NAME="tienda Coverage Results" MODIFIED="1771110232140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/principal/modelo" />
+    <SUITE FILE_PATH="coverage/tienda_virtual$interfaz.coverage" NAME="interfaz Coverage Results" MODIFIED="1771174058338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/principal/consola" />
   </component>
 </project>

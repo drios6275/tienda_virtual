@@ -1,8 +1,8 @@
-from tienda.modelo.producto import Producto
+from principal.modelo.producto import Producto
 
 
 class Cliente:
-    def __init__(self,nombre:str):
+    def __init__(self,nombre:str="Usuario"):
         self.nombre = nombre
         self.carrito:list[str]=[]
 
@@ -15,6 +15,16 @@ class Cliente:
             return "no hay productos en el carrito"
 
         return self.carrito
+
+
+    def calcular_total(self):
+        suma = 0
+        for iteracion in self.carrito:
+            suma += iteracion.precio
+            return suma
+
+
+
 
 
 

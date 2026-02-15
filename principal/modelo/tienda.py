@@ -1,10 +1,10 @@
-from tienda.modelo import cliente
-from tienda.modelo.producto import Producto
+
+from principal.modelo.producto import Producto
 
 
 class Tienda:
 
-    def __init__(self , nombre = "La tienda de david"):
+    def __init__(self , nombre = "La principal de david"):
         self.nombre = nombre
         self.productos :list[str] = []
 
@@ -15,7 +15,9 @@ class Tienda:
         if not self.productos:
             return"No hay productos en la lista"
 
-        print(self.productos)
+        for producto in self.productos:
+            print(producto)
+
 
 
 
